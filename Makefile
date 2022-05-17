@@ -1,4 +1,4 @@
-PYTHON ?= python
+PYTHON ?= python3
 NPM ?= npm
 CLANG_FORMAT ?= clang-format
 PRETTIER ?= prettier --no-editorconfig
